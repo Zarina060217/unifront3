@@ -27,3 +27,11 @@ Task 2
 * <img width="329" height="718" alt="image" src="https://github.com/user-attachments/assets/43c19460-8b4c-4dd9-b6b2-fc8ca8ed9fdb" />
 * <img width="915" height="587" alt="image" src="https://github.com/user-attachments/assets/c7f49307-b2e7-47d2-9821-7a421bdf3265" />
 * <img width="1293" height="610" alt="image" src="https://github.com/user-attachments/assets/928d2eea-12d7-4478-8601-4ece26e3ff39" />
+
+* Task 3
+* <img width="569" height="373" alt="image" src="https://github.com/user-attachments/assets/82bb4878-cd2d-4f08-80a2-29efb974f57b" />
+*results:
+* <img width="1439" height="830" alt="image" src="https://github.com/user-attachments/assets/3c979bee-0521-424a-a1c0-4eb05c51fabe" />
+* the case of mobile and tablet i always checked by moving width of browser as you can see from dev tools section
+* <img width="980" height="790" alt="image" src="https://github.com/user-attachments/assets/d24bda78-cd06-4fcb-98a4-9a239e4c1ab1" />
+
