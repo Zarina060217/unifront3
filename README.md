@@ -39,3 +39,6 @@ Task 2
 * <img width="478" height="632" alt="image" src="https://github.com/user-attachments/assets/196168cb-6ea4-4d5a-b0bf-8d24570d30be" />
 * <img width="173" height="257" alt="image" src="https://github.com/user-attachments/assets/a0ceb4e7-4cef-4fb1-a95b-d853ba916ca4" />
 
+* <img width="1439" height="830" alt="image" src="https://github.com/user-attachments/assets/c0c3ad80-95e0-420f-b350-2817bfa505b1" />
+* <img width="450" height="410" alt="image" src="https://github.com/user-attachments/assets/d1c4605e-3e80-448f-9f9a-69c84a9d47c2" />
+
