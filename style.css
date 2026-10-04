@@ -1,5 +1,4 @@
-@import "node_modules/bootstrap/dist/css/bootstrap.min.css";
-.class-title{
+.custom-title{
   font-size: 25px;
 }
 .custom-subtitle{
@@ -10,7 +9,7 @@
   line-height: 1.4;
 }
 @media (min-width: 768px) {
-  .custom.title{
+  .custom-title{
     font-size: 35px;
   }
   .custom-subtitle{
@@ -22,7 +21,7 @@
   }
 }
 @media (min-width: 992px) {
-  .custom.title{
+  .custom-title{
     font-size: 50px;
   }
   .custom-subtitle{
