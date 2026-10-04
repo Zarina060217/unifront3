@@ -35,3 +35,7 @@ Task 2
 * the case of mobile and tablet i always checked by moving width of browser as you can see from dev tools section
 * <img width="980" height="790" alt="image" src="https://github.com/user-attachments/assets/d24bda78-cd06-4fcb-98a4-9a239e4c1ab1" />
 
+* Task 4
+* <img width="478" height="632" alt="image" src="https://github.com/user-attachments/assets/196168cb-6ea4-4d5a-b0bf-8d24570d30be" />
+* <img width="173" height="257" alt="image" src="https://github.com/user-attachments/assets/a0ceb4e7-4cef-4fb1-a95b-d853ba916ca4" />
+
