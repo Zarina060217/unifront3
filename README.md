@@ -7,5 +7,7 @@
 *<img width="587" height="542" alt="image" src="https://github.com/user-attachments/assets/94a8e091-e519-49b3-ae96-b2a0f5a2e0a6" />
 * result:
 * <img width="917" height="230" alt="image" src="https://github.com/user-attachments/assets/9bed2f12-3410-46d3-ad0d-a23bfde15926" />
+* <img width="299" height="511" alt="image" src="https://github.com/user-attachments/assets/d4bed8c1-d23f-4bc8-8d28-68fe5899a46c" />
+
 *task 1:
 
