@@ -17,3 +17,12 @@
 * <img width="910" height="575" alt="image" src="https://github.com/user-attachments/assets/b1d500c6-4992-4ca8-a1c5-4cbc17e18b71" />
 * <img width="1100" height="578" alt="image" src="https://github.com/user-attachments/assets/72200ed3-d054-44ea-a963-54fdd6fd7329" />
 
+Task 2
+ * I noticed that my bootstrap had problems, because i placed it in gitignore, since website is from github, it couldn't see the importing from node_modules, so i removed import bootrstrap from style.css and linked bootstrap via CDN in index.html and it worked well.
+ * Here you can see that everything is ok by dev tools:
+ * <img width="818" height="563" alt="image" src="https://github.com/user-attachments/assets/03858c04-195a-4ee8-b4a3-bcadc006c419" />
+ * here Changed index.html with task 2:
+ * <img width="749" height="701" alt="image" src="https://github.com/user-attachments/assets/3b351556-b86d-4b93-bf74-cc5584c08631" />
+* here in css i just removed import bootstrap
+* <img width="329" height="718" alt="image" src="https://github.com/user-attachments/assets/43c19460-8b4c-4dd9-b6b2-fc8ca8ed9fdb" />
+
