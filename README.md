@@ -25,4 +25,5 @@ Task 2
  * <img width="749" height="701" alt="image" src="https://github.com/user-attachments/assets/3b351556-b86d-4b93-bf74-cc5584c08631" />
 * here in css i just removed import bootstrap
 * <img width="329" height="718" alt="image" src="https://github.com/user-attachments/assets/43c19460-8b4c-4dd9-b6b2-fc8ca8ed9fdb" />
-
+* <img width="915" height="587" alt="image" src="https://github.com/user-attachments/assets/c7f49307-b2e7-47d2-9821-7a421bdf3265" />
+* <img width="1293" height="610" alt="image" src="https://github.com/user-attachments/assets/928d2eea-12d7-4478-8601-4ece26e3ff39" />
